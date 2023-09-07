@@ -25,6 +25,7 @@ cask "aifun" do
   zap trash: [
     "~/Library/Application Scripts/com.getaifun",
     "~/Library/Caches/com.getaifun",
+    "~/Library/WebKit/com.getaifun",
     "~/Library/Containers/com.getaifun",
     "~/Library/Preferences/com.getaifun.plist",
     "~/Library/Saved Application State/com.getaifun.savedState",
